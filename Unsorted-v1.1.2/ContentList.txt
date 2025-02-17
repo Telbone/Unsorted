@@ -1,0 +1,291 @@
+--JOKERS--                              --NOTES--
+
+
+
+Foolish Joker
+
+1 in 2 chance to create an
+extra random Consumeable when
+a Fool card is used
+(Must have room)
+
+Magic Show
+
+Played Lucky and Trick cards
+have a 1 in 4 chance to
+give X2.5 Mult when scored               --Does not trigger Lucky Cat
+
+Solar Flair
+
+Destroys all held Planet cards for
+played Poker Hand, gains
+X0.3 Mult for each Planet
+card destroyed this way
+
+Impressive Joker
+
++4 Mult every time a Mult Card
+is scored, -2 Mult every time
+a non-Mult Card is scored
+
+The Empire
+
+Gains +30 chips every time an
+Emperor card is used
+
+Jackpot!
+
+1 in 7 chance for X3.5 Mult,
+increase probability by 1 every time
+a Bonus Card or 7 is scored
+Resets after hand is played              --Cards that are bonus cards and 7s will increase the probability twice
+
+Lovestruck Joker
+
+Gains X0.1 Mult every time a
+Wild Card is scored
+
+Factory
+
+Played Steel Cards have a
+1 in 2 chance to become
+Negative when scored
+
+Police Officer
+
+All scored Glass cards lose
+their Enhancement and gain a
+random Seal or Edition                    --50/50 chance for seal or edition
+
+Hermit Crab
+
+Gains +3 Mult when Blind
+is selected if you have $20 or more
+
+Fortune Cookie
+
+After 5 rounds, sell this
+card to add Polychrome
+to a random Joker                          --Will not override an edition, does nothing if all jokers have an edition
+
+Bodybuilder
+
+Increase rank of all cards in
+first discard of round by 1
+
+Executioner
+
+Gains +20 Chips when
+any card is destroyed                        --Playing cards only, not jokers or consumables
+
+The Reaper
+
+If played hand contains exactly
+2 cards, convert the left card
+into the right card after scoring
+
+Short Temper
+
+Gains $2 of sell value at
+end of round for each hand
+played after first hand of round              --Will do nothing if round is won in 1 hand
+
+Miner
+
+Gold Cards held in hand
+give Mult equal to their rank
+
+The Pyramid
+
+X3 Mult if there are at least
+10 Stone cards in your Full Deck
+
+Starry Night
+
+Gains +2 Mult every time
+a card with Diamond suit is scored,
+resets after beating Boss Blind
+
+Moonlight
+
+Gains X0.2 Mult every time
+a card with Club suit is scored,
+resets after hand is scored
+
+Sunrise
+
+Gains +30 Chips for each
+scored card with Heart suit
+in first hand of round,
+Resets at end of round                        --Unaffected by retriggers
+
+Judge
+
+When this Joker is sold,
+create a Joker whose Collection
+number matches your current money
+(Legendaries excluded)                        --Will not create modded jokers except for jokers in this mod
+
+Fertile Soil
+
+Earn $_ at end of round,
+increase payout by $1 if Scored Hand
+contains only Spades, resets when
+a non-Spade card is scored
+
+Mad World
+
+First played Face Card
+of each Enhancement gives
++9 Mult when scored
+
+Groom
+
+First played Ace
+of each Enhancement gives
+X2 Mult when scored
+
+Tin Cans
+
+First played numbered Card
+of each Enhancement gives
++35 Chips when scored
+
+Tally Marks
+
+Gains +5 Mult and +20 Chips
+for every 5 Gold Seals scored
+
+Explorer
+
+Played cards with an Edition
+permanently gain +24 Chips when scored
+
+Bank
+
+At end of shop, set money to
+$0 and gain X0.02 Mult
+for each $1 lost this way                      --Will lose mult if money if negative, but still set money to 0
+
+Signal
+
+Each card held in hand
+gives +5 Mult if all
+of them are [Suit],
+Suit changes at end of 
+round based on cards in deck                   --Chooses same suit as idol
+
+Squeegee
+
+Convert all scored cards
+into a random card in poker hand
+
+Echo Joker
+
+Create an Ectoplasm Card
+if played hand is a Royal Flush
+(Must have room)
+
+I'm Late!
+
+Earn $6 at end of round,
+Self-destructs after beating
+Boss Blind unless a playing card
+is destroyed this ante
+
+Anchor
+
+X4 Mult if you have
+another Anchor
+
+DJ
+
+Retrigger all
+cards with Seals                              --Will retrigger cards played, held in hand, and purple seals discarded
+
+Hexagonal Joker
+
+Gives X1.5 Mult for each
+Polychrome Joker you have                     --Counts itself
+
+Transportation
+
+Blue Seals activate
+when scored                                   --Planet card created matches current hand
+
+High Risk, High Reward
+
+Create a Tarot card when
+scored for each 2 Jokers to
+the left, Blind gets +50%
+chips for each Tarot card created
+(Must have room)
+
+Encrypted Joker
+
++20 Mult for each scored card
+if all scored cards are of
+the same rank and suit                        --Does not work on stone cards
+
+Essencia
+
+Create a Negative Eternal Legendary
+Joker, replace it with a new one
+when Blind is skipped
+Essencia cannot be created,
+Destroy extra Joker when Essencia is sold     --Creates joker when blind is selected if one has not yet been created
+
+Quasaro
+
+1 in 2 chance to upgrade level of
+all poker hands at end of round
+
+
+
+--TAROT CARDS--
+
+
+
+The Trash
+
+Gives $4 for each
+Discard you have
+
+The Illusionist
+
+Enhances 1 selected
+card into a
+Trick card
+
+The Sign
+
+Gain a Charm Tag,
+Meteor Tag or Buffoon Tag                      --Equal chance for each tag
+
+The Scales
+
+Enhances 1 selected
+card into a
+Balance card
+
+The Chaos
+
+Randomize the suit and
+rank of up to
+5 selected cards                               --Cards may randomize back into the same suit/rank
+
+
+
+--ENHANCEMENTS
+
+Balance Card
+
+Balances Chips and
+Mult, then gives
+X0.5 Mult
+
+Trick Card
+
+Gives X0.25 Mult for
+each Consumable
+you have                                       --Starts at X1, then X1.25 etc
